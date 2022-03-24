@@ -1,6 +1,6 @@
-- 🍓 hi, I’m michelle!
+- 🍓 hi, i’m michelle!
 - 🌱 i’m a student @ northwestern studying cs, math, and chemistry
-- 🍰 i'm interested in all things cs, but especially qis and ai :) 
+- 🍰 interested in all things cs, but especially qis and ai :) 
 - 💌 i am totally new to github and have no idea how it works lol please bear with me
 
 <!---
